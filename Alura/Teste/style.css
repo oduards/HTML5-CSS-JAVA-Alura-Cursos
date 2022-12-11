@@ -1,0 +1,53 @@
+header {
+  background-color: #ffffff;
+  padding: 25px 0px;
+}
+
+.logo {
+  margin-top: 50px;
+}
+
+.caixa {
+  padding: 20px;
+  width: 1200px;
+  position: relative;
+  margin: 0 auto;
+}
+
+nav {
+  position: absolute;
+  top: 110px;
+  right: 0;
+}
+
+nav li {
+  display: block;
+  margin: 0 0 30px 20px;
+}
+
+nav a {
+  text-transform: uppercase;
+  color: rgb(197, 110, 51);
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.corpo {
+  padding: 25px;
+  background-color: rgba(197, 109, 51, 0.849);
+  width: 1200px 2400px;
+  color: #ffffff;
+  font-size: 20px;
+  margin: 0 20px 0 20px;
+
+}
+
+.titulo_margem_esquerda {
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 20px;
+  margin: 0 0 40px 40px;
+
+}
